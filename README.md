@@ -8,7 +8,7 @@ sales patterns, profitability trends, relationships, and anomalies.
 
 ## Dataset
 
-The dataset contains 9,994 records and 21 columns covering:
+The dataset contains 9,994 records and 21 columns covering
 
 - Orders and shipping details
 - Customer segments and locations
